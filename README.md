@@ -1,5 +1,5 @@
 ### Github Profile of LD6K ![](https://komarev.com/ghpvc/?username=ld6k)
-- Please consider hiring me
+- Please consider hiring me (en.cs10@nycu.edu.tw)
 - I like hardware design and CPU
 
 ## About me
