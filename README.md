@@ -4,7 +4,6 @@
 
 ## About me
 - BS @ NYCU CS / MS @ NTU GIEE
-- Former SiFive CPU Design Verification Intern
 - Research Focus: Design and implementation of caches against side-channel attack
 - Interest: Digital Design, Computer Architecture, Ray Tracing Hardware Architecture
 
