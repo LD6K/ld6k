@@ -2,13 +2,13 @@
 - I like hardware design and CPU
 - en.cs10@nycu.edu.tw
 
-## About me
+## 
 - BS @ NYCU CS / MS @ NTU GIEE
 - Research Focus: Design and implementation of caches against side-channel attack
 - Interest: Digital Design, Computer Architecture, Ray Tracing Hardware Architecture
 
 
-## Skill Sets 
+## 
 - Verilog/SystemVerilog
 - Python/C/C++
 - UVM/Gem5
