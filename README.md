@@ -1,5 +1,4 @@
 ### Github Profile of LD6K ![](https://komarev.com/ghpvc/?username=ld6k)
-- I like hardware design and CPU
 - en.cs10@nycu.edu.tw
 
 ## 
